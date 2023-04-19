@@ -1,0 +1,6 @@
+word = "bfgshbkis"
+print(word[-2:-8:-2])
+
+
+
+
