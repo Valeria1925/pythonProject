@@ -1,2 +1,2 @@
-x = sum(range(2, 101, 2))
+x = sum(range(2, 100, 2))
 print(x)
